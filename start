@@ -1,0 +1,5 @@
+setxkbmap latam &
+kdeconnectd &
+/usr/lib/xfce4/xfce-polkit &
+dunst &
+picom &
